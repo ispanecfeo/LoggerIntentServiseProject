@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoggerIntentServiceProject</string>
+    <string name="test_logger_service">Test logger service</string>
+    <string name="intent_message">Test message from logger service</string>
+</resources>
